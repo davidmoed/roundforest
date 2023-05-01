@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roundforest/static/css/main.28a0fc89.css",
+    "main.js": "/roundforest/static/js/main.639fcdff.js",
+    "index.html": "/roundforest/index.html",
+    "main.28a0fc89.css.map": "/roundforest/static/css/main.28a0fc89.css.map",
+    "main.639fcdff.js.map": "/roundforest/static/js/main.639fcdff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a0fc89.css",
+    "static/js/main.639fcdff.js"
+  ]
+}
