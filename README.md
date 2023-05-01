@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+Task: Build a responsive e-commerce product page with API communication and state management.
+You have been tasked with building a product page for an e-commerce website. The page must be responsive, communicate with an API to retrieve product information and use state management to handle user interactions. Here are the requirements:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Design: Use your creativity and design skills to create a visually appealing product page. You can use any color scheme and fonts, but make sure the design is consistent and modern.
+2. API communication: Use an API to retrieve product information. The API should provide the following information about the product: ● Product Name ● Product Description ● Product Image ● Product Price ● Product Rating (out of 5 stars) ● Product Reviews
+   You can use any API you choose, or create a mock API using a tool like JSON Server.
+3. State management: Use state management to handle user interactions, such as adding the product to the cart. You can use any state management library of your choice, such as Redux, MobX, or React Context API.
+4. Layout: The layout should be flexible and responsive. The page should adapt to different screen sizes and orientations.
+5. Navigation: Include a navigation bar that allows users to navigate to other pages on the website easily.
+6. User Interaction: Include at least one interactive element on the page, such as a button or form. Use state management to handle the user interaction.
+7. Accessibility: Ensure the page is accessible to all users, including those with disabilities. Use semantic HTML and include alt tags for images.
+8. Code Quality: Write clean and maintainable code. Use best practices such as TypeScript, CSS preprocessors, semantic HTML, and appropriate naming conventions.
+   Bonus points:
+   ● Use a CSS framework such as Bootstrap or Materialize to speed up development time. ● Implement a filtering or sorting feature for the reviews. ● Use CSS animations or transitions to enhance the user experience.
+   Deliverables:
+   ● A GitHub repository with your code. ● A live demo of the product page hosted on a public URL.
+   Good luck!
