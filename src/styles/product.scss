@@ -1,0 +1,53 @@
+@import './_config';
+
+.productCol {
+    display: flex;
+    margin-bottom: 32px;
+    .productCard {
+        flex: 1 1 auto;
+        padding: 16px 8px;
+        color: $dark;
+        .productImg {
+            align-self: center;
+            max-width: 360px;
+        }
+        
+        .productBody {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            .productDescs {
+                min-height: 120px;
+            }
+            .productVals {
+                margin-top: 12px;
+            }
+        }
+    }
+}
+
+.reviewsLink {
+    text-decoration: underline;
+    cursor: pointer;
+    &:hover {
+        color: $dark-secondary;
+    }
+}
+
+.reviewsModal {
+    .modal-content {
+        padding: 16px;
+        background-color: $dark;
+        .modal-body {
+            max-height: 460px;
+            overflow-y: scroll;
+        }
+        .btn-close {
+            background-color: $light;
+        }
+        .modal-footer {
+            border-top: none;
+            justify-content: center;
+        }
+    }
+}

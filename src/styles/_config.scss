@@ -1,0 +1,18 @@
+/* Static values */
+$dark: #01161e;
+$dark-secondary: #034863;
+$light: #eff6e0;
+$light-secondary: #e0eec4;
+$dark-overlay: rgba(1, 22, 30, 0.8);
+
+
+/* Theme overwrites */
+$primary:  $light;
+$secondary: $dark;
+$body-color: $light;
+$body-bg: $dark;
+$font-family-sans-serif: "Montserrat";
+
+
+@import 'bootstrap/scss/bootstrap';
+
