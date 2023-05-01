@@ -15,6 +15,7 @@ function App() {
       <Header />
 
       <Routes>
+        <Route path="/roundforest" element={<Homepage />} />
         <Route index element={<Homepage />} />
         <Route exact path="about" element={<About />} />
         <Route exact path="funnyGif" element={<FunnyGif />} />
