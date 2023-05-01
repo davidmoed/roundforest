@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/roundforest/static/css/main.28a0fc89.css",
-    "main.js": "/roundforest/static/js/main.639fcdff.js",
+    "main.js": "/roundforest/static/js/main.235cc01c.js",
     "index.html": "/roundforest/index.html",
     "main.28a0fc89.css.map": "/roundforest/static/css/main.28a0fc89.css.map",
-    "main.639fcdff.js.map": "/roundforest/static/js/main.639fcdff.js.map"
+    "main.235cc01c.js.map": "/roundforest/static/js/main.235cc01c.js.map"
   },
   "entrypoints": [
     "static/css/main.28a0fc89.css",
-    "static/js/main.639fcdff.js"
+    "static/js/main.235cc01c.js"
   ]
 }
