@@ -15,10 +15,10 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<Homepage />} />
         <Route index element={<Homepage />} />
-        <Route path="about" element={<About />} />
-        <Route path="funnyGif" element={<FunnyGif />} />
+        <Route exact path="about" element={<About />} />
+        <Route exact path="funnyGif" element={<FunnyGif />} />
+        <Route path="*" element={<Homepage />} />
       </Routes>
     </Container>
   );
