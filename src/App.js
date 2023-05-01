@@ -18,7 +18,7 @@ function App() {
         <Route path="/" element={<Homepage />} />
         <Route index element={<Homepage />} />
         <Route path="about" element={<About />} />
-        <Route path="*" element={<FunnyGif />} />
+        <Route path="funnyGif" element={<FunnyGif />} />
       </Routes>
     </Container>
   );
